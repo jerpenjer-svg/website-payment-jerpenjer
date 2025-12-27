@@ -1,0 +1,8 @@
+{
+  "name": "website-jerpenjer",
+  "version": "1.0.9",
+  "private": true,
+  "scripts": {
+    "start": "vercel dev"
+  }
+}
